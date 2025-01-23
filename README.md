@@ -23,7 +23,7 @@
 - ☕ Energy drinks fuel my productivity!  
 
 ## 📫 Get in Touch!  
-📧 Email: donleepedersencs@gmail   
+📧 Email: donleepedersencs@gmail.com
 📱 LinkedIn: [Donlee Pedersen](https://linkedin.com/in/donlee-pedersen)  
 
 ---
