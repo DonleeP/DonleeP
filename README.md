@@ -1,12 +1,12 @@
 # 👋 Hi there! Welcome to my GitHub!
 
 ## 🚀 About Me  
-👨‍💻 I'm a **Computer Science Student** that is a freshman @University of Wisconsin-Green Bay passionate about technology and innovation and looking to connect and learn with people in the world of technology!  
+👨‍💻 I'm a **Computer Science Student** that is a Sophmore @University of Wisconsin-Green Bay passionate about technology and innovation and looking to connect and learn with people in the world of technology!  
 🌟 Dedicated to making an impact in the field of software engineering and beyond.  
 📚 Currently expanding my knowledge in **algorithms**, **data structures**, and **web development**.  
 
 ## 🛠️ Skills & Tools  
-💻 Programming: `Python`, `C`  
+💻 Programming: `Python`, `C`, `Java`  
 🌐 Web Development: `HTML`, `CSS`  
 
 ## 🎯 Current Focus   
