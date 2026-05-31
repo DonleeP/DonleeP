@@ -7,12 +7,10 @@ I thrive on turning complex problems into elegant, automated solutions and I’m
 ## 🛠️ Tech Stack
 | Category | Tools |
 |----------|------|
-| **Programming** | `Python`, `JavaScript`, `TypeScript` |
+| **Programming** | `Python`, `JavaScript`, `TypeScript`, `C`, `Java` |
 | **LLM & NLP** | `OpenAI GPT`, `LangChain`, `Azure OpenAI` |
 | **Workflow** | `n8n`, `GitHub Actions` |
-| **Chat Platforms** | `Microsoft Teams Bot Framework` |
 | **Databases** | `Microsoft SQL Server` |
-| **Other** | `Docker`, `REST APIs` |
 
 ## 📚 Projects
 
