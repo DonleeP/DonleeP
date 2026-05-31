@@ -1,21 +1,3 @@
-<!-- ====== HERO SECTION ====== -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="140" alt="Donlee Pedersen" />
-  <h1 style="margin:0;">👋 Hi, I’m <b>Donlee Pedersen</b></h1>
-  <p>AI & Automation Intern | Building intelligent chatbots with LLMs, Microsoft Teams & SQL</p>
-</div>
-
-<!-- ====== GITHUB STATS ====== -->
-<div align="center" style="margin:1em 0;">
-  <a href="https://github.com/donlee-pedersen">
-    <img src="https://github-readme-stats.vercel.app/api?username=donlee-pedersen&show_icons=true&theme=radical"
-         alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/donlee-pedersen">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=donlee-pedersen&theme=radical"
-         alt="GitHub Streak" />
-  </a>
-</div>
 
 ## 🚀 About Me
 I’m a Junior Computer Science student at UW‑Green Bay.  
